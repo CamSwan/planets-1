@@ -2,3 +2,5 @@ Cold and dry, but everything is my favorite color
 These are my notes about Mars.
 
 To exit Nano hit Exit and then save and then enter.
+
+Adding changes from the Cloud don't forget to pull at home.
